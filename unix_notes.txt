@@ -1,3 +1,5 @@
+hey whats up
+cupcake royale
 history | less
 clear
 ~/.ssh/id_rsa.pub | pbcopy
