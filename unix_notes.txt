@@ -1,0 +1,401 @@
+history | less
+clear
+~/.ssh/id_rsa.pub | pbcopy
+./.ssh/id_rsa.pub | pbcopy
+ls -la ~/.ssh/
+ssh-keygen -t rsa
+cd 
+cd ..
+cd .
+cd
+ls -lr
+ls -l
+man ls
+man
+ls -t
+ls
+cd Downloads
+cd ~
+cd /
+pwd
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'rubens24@uw.edu'
+git config --global user.name 'Ruben Sarkisyan'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shellsclear
+cd Desktop
+which fish
+which fidh
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+history
+git log
+cd sea-w29/
+git push origin break_me.py 
+git commit -m "Added a new file"
+nano break_me.py 
+git add break_me.py 
+touch break_me.py
+cd hw
+git branch
+git status
+git commit -m "Added new file"
+nano break_me.py
+git checkout -b hw4
+cd sea-c42-python/
+git pull upstream master
+git checkout master
+git push origin hw3
+git commit -m "Added changes to file"
+git add README.md
+nano README.md
+touch README.md
+git branch hw3
+git checkout -b hw3
+sea-c42-python/
+cd hw3
+mv hw3.txt hw3
+git commit -m "Add new file"
+git add hw3.txt
+git push origin notes
+git remote set-url origin https://github.com/rubens23/sea-w29
+git remote -v
+git add git_notes.txt 
+git add unix_notes.txt 
+git push origin git_notes.txt 
+git commit -m "Added new files"
+nano git_notes.txt
+nano unix_notes.txt 
+git checkout notes
+nano git_notes.txt 
+git commit -m "Added UNIX notes"
+git add ./
+git add
+nano unix_notes.txt
+touch unix_notes.txt
+cd rubens23
+mkdir rubens23
+git checkout -b notes
+sea-w29/
+git push origin rubens23
+git push 
+git commit git_notes.txt 
+git commit unix_notes.txt 
+GIT STATUS
+LS
+cd rubens23/
+git add git.notes.txt
+git push origin unix_notes.txt 
+git commit -m "Add unix_notes.txt"
+git commit -m "Add function to file"
+less git_notes.txt 
+touch git_notes.txt
+less unix_notes.txt 
+nano
+echo unix_notes.txt
+cd notes
+rm -r rubens23
+rm rubens23
+git fetch
+mkdir notes
+cd sea-w29
+cd Desktop/
+cd Creative\ Cloud\ Files
+git clone https://github.com/codefellows/sea-w29.git
+l
+git clone https://github.com/rubens23/sea-w29.git
+less hw3.txt
+cd examples
+>>>import random
+python3
+git pull upstream master 
+git remote set-url upstream  https://github.com/codefellows/sea-c42-python.git
+check cypher.py
+norm$ git pull upstream master
+git remote add upstream https://github.com/rubens23/sea-c42-python.git
+git remote-v
+py.test
+cd hw06
+cd desktop
+mkdir hw06
+cd ../
+cd Deleted\ Users/
+cd sea-c42-python
+cd sea-c42-python/ls
+ cd README.me
+checkout cd README.md
+git pull request
+git push origin master
+git push --set-upstream origin hw3
+git push
+git commit -m "Add hw3"
+git add hw3
+source ~/.git-completion.bash
+curl https://raw.github.com/git/git/v1.8.4.2/contrib/completion/git-completion.bash -o .git-completion.bash
+git push hw3
+git remote add origin https://github.com/codefellows/sea-c42-python.git
+git commit -m "Add README.md"
+ls -a
+git add rubenshw3.txt
+mv hw3.txt hw3/
+mv <hw3><path to hw3>
+mkdir hw3
+git checkout hw3
+show directory
+yes
+git congif hw3
+makdir hw3
+git remote add upstream https://github.com/rubens23/sea-c42-python.githttps://github.com/codefellows/sea-c42-python.git
+git clone https://github.com/rubens23/sea-c42-python.git
+git clone
+cd Documents
+cd documents
+cd dektop
+git clone https://github.com/codefellows/sea-c42-python.git
+get branch
+git clone https://github.com/codefellows/sea-c42-python/blob/master/README.md
+$ git checkout master
+pip install python3
+python get-pip.py
+curl -O https://bootstrap.pypa.io/get-pip.py
+$ python get-pip.py
+python
+python 3
+  sudo "/bin/mkdir", HOMEBREW_PREFIX
+if File.directory? HOMEBREW_PREFIX;   sudo "/bin/chmod", "g+rwx", *chmods unless chmods.empty?;   sudo "/usr/bin/chgrp", "admin", *chgrps unless chgrps.empty?; else
+wait_for_user if STDIN.tty?
+end
+  puts(*chgrps)
+  ohai "The following directories will have their group set to #{Tty.underline 39}admin#{Tty.reset}:"
+unless chgrps.empty?
+  puts(*chmods)
+  ohai "The following directories will be made group writable:"
+unless chmods.empty?
+chgrps = chmods.select { |d| chgrp?(d) }
+             map { |d| File.join(HOMEBREW_PREFIX, d) }.select { |d| chmod?(d) }
+             share/info share/doc share/aclocal ).
+             share/man/man5 share/man/man6 share/man/man7 share/man/man8
+             share/man/man1 share/man/man2 share/man/man3 share/man/man4
+chmods = %w( . bin etc include lib lib/pkgconfig Library sbin share var var/log share/locale share/man
+puts "#{HOMEBREW_PREFIX}/share/man/man1/brew.1"
+puts "#{HOMEBREW_PREFIX}/Library/..."
+puts "#{HOMEBREW_PREFIX}/bin/brew"
+ohai "This script will install:"
+cd
+.
+..
+pwd
+ls 
+subl moving_around.txt 
+history > moving_around.txt
+history | less
+clear
+~/.ssh/id_rsa.pub | pbcopy
+./.ssh/id_rsa.pub | pbcopy
+ls -la ~/.ssh/
+ssh-keygen -t rsa
+cd 
+cd ..
+cd .
+ls -lr
+ls -l
+man ls
+man
+ls -t
+ls
+cd Downloads
+cd ~
+cd /
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'rubens24@uw.edu'
+git config --global user.name 'Ruben Sarkisyan'
+git --version
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shellsclear
+cd Desktop
+which fish
+which fidh
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+help
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+history
+git log
+cd sea-w29/
+git push origin break_me.py 
+git commit -m "Added a new file"
+nano break_me.py 
+git add break_me.py 
+touch break_me.py
+cd hw
+git branch
+git status
+git commit -m "Added new file"
+nano break_me.py
+git checkout -b hw4
+cd sea-c42-python/
+git pull upstream master
+git checkout master
+git push origin hw3
+git commit -m "Added changes to file"
+git add README.md
+nano README.md
+touch README.md
+git branch hw3
+git checkout -b hw3
+sea-c42-python/
+cd hw3
+mv hw3.txt hw3
+git commit -m "Add new file"
+git add hw3.txt
+git push origin notes
+git remote set-url origin https://github.com/rubens23/sea-w29
+git remote -v
+git add git_notes.txt 
+git add unix_notes.txt 
+git push origin git_notes.txt 
+git commit -m "Added new files"
+nano git_notes.txt
+nano unix_notes.txt 
+git checkout notes
+nano git_notes.txt 
+git commit -m "Added UNIX notes"
+git add ./
+git add
+nano unix_notes.txt
+touch unix_notes.txt
+cd rubens23
+mkdir rubens23
+git checkout -b notes
+sea-w29/
+git push origin rubens23
+git push 
+git commit git_notes.txt 
+git commit unix_notes.txt 
+GIT STATUS
+LS
+cd rubens23/
+git add git.notes.txt
+git push origin unix_notes.txt 
+git commit -m "Add unix_notes.txt"
+git commit -m "Add function to file"
+less git_notes.txt 
+touch git_notes.txt
+less unix_notes.txt 
+nano
+echo unix_notes.txt
+cd notes
+rm -r rubens23
+rm rubens23
+git fetch
+mkdir notes
+cd sea-w29
+cd Desktop/
+cd Creative\ Cloud\ Files
+git clone https://github.com/codefellows/sea-w29.git
+l
+git clone https://github.com/rubens23/sea-w29.git
+less hw3.txt
+cd examples
+>>>import random
+python3
+git pull upstream master 
+git remote set-url upstream  https://github.com/codefellows/sea-c42-python.git
+check cypher.py
+norm$ git pull upstream master
+git remote add upstream https://github.com/rubens23/sea-c42-python.git
+git remote-v
+py.test
+cd hw06
+cd desktop
+mkdir hw06
+cd ../
+cd Deleted\ Users/
+cd sea-c42-python
+cd sea-c42-python/ls
+ cd README.me
+checkout cd README.md
+git pull request
+git push origin master
+git push --set-upstream origin hw3
+git push
+git commit -m "Add hw3"
+git add hw3
+source ~/.git-completion.bash
+curl https://raw.github.com/git/git/v1.8.4.2/contrib/completion/git-completion.bash -o .git-completion.bash
+git push hw3
+git remote add origin https://github.com/codefellows/sea-c42-python.git
+git commit -m "Add README.md"
+ls -a
+git add rubenshw3.txt
+mv hw3.txt hw3/
+mv <hw3><path to hw3>
+mkdir hw3
+git checkout hw3
+show directory
+yes
+git congif hw3
+makdir hw3
+git remote add upstream https://github.com/rubens23/sea-c42-python.githttps://github.com/codefellows/sea-c42-python.git
+git clone https://github.com/rubens23/sea-c42-python.git
+git clone
+cd Documents
+cd documents
+cd dektop
+git clone https://github.com/codefellows/sea-c42-python.git
+get branch
+git clone https://github.com/codefellows/sea-c42-python/blob/master/README.md
+$ git checkout master
+pip install python3
+python get-pip.py
+curl -O https://bootstrap.pypa.io/get-pip.py
+$ python get-pip.py
+python
+python 3
+  sudo "/bin/mkdir", HOMEBREW_PREFIX
+if File.directory? HOMEBREW_PREFIX;   sudo "/bin/chmod", "g+rwx", *chmods unless chmods.empty?;   sudo "/usr/bin/chgrp", "admin", *chgrps unless chgrps.empty?; else
+wait_for_user if STDIN.tty?
+end
+  puts(*chgrps)
+  ohai "The following directories will have their group set to #{Tty.underline 39}admin#{Tty.reset}:"
+unless chgrps.empty?
+  puts(*chmods)
+  ohai "The following directories will be made group writable:"
+unless chmods.empty?
+chgrps = chmods.select { |d| chgrp?(d) }
+             map { |d| File.join(HOMEBREW_PREFIX, d) }.select { |d| chmod?(d) }
+             share/info share/doc share/aclocal ).
+             share/man/man5 share/man/man6 share/man/man7 share/man/man8
+             share/man/man1 share/man/man2 share/man/man3 share/man/man4
+chmods = %w( . bin etc include lib lib/pkgconfig Library sbin share var var/log share/locale share/man
+puts "#{HOMEBREW_PREFIX}/share/man/man1/brew.1"
+puts "#{HOMEBREW_PREFIX}/Library/..."
+puts "#{HOMEBREW_PREFIX}/bin/brew"
+ohai "This script will install:"
