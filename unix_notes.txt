@@ -1,5 +1,8 @@
 hey whats up
 cupcake royale
+rrrrrrrr
+uuuuuuuu
+bbbb
 history | less
 clear
 ~/.ssh/id_rsa.pub | pbcopy
