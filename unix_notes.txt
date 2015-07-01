@@ -1,3 +1,6 @@
+Hello, this is Alina.
+Good luck with your classes!
+
 hey whats up
 cupcake royale
 rrrrrrrr
@@ -9,7 +12,7 @@ clear
 ./.ssh/id_rsa.pub | pbcopy
 ls -la ~/.ssh/
 ssh-keygen -t rsa
-cd 
+cd
 cd ..
 cd .
 cd
@@ -51,10 +54,10 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 history
 git log
 cd sea-w29/
-git push origin break_me.py 
+git push origin break_me.py
 git commit -m "Added a new file"
-nano break_me.py 
-git add break_me.py 
+nano break_me.py
+git add break_me.py
 touch break_me.py
 cd hw
 git branch
@@ -80,14 +83,14 @@ git add hw3.txt
 git push origin notes
 git remote set-url origin https://github.com/rubens23/sea-w29
 git remote -v
-git add git_notes.txt 
-git add unix_notes.txt 
-git push origin git_notes.txt 
+git add git_notes.txt
+git add unix_notes.txt
+git push origin git_notes.txt
 git commit -m "Added new files"
 nano git_notes.txt
-nano unix_notes.txt 
+nano unix_notes.txt
 git checkout notes
-nano git_notes.txt 
+nano git_notes.txt
 git commit -m "Added UNIX notes"
 git add ./
 git add
@@ -98,19 +101,19 @@ mkdir rubens23
 git checkout -b notes
 sea-w29/
 git push origin rubens23
-git push 
-git commit git_notes.txt 
-git commit unix_notes.txt 
+git push
+git commit git_notes.txt
+git commit unix_notes.txt
 GIT STATUS
 LS
 cd rubens23/
 git add git.notes.txt
-git push origin unix_notes.txt 
+git push origin unix_notes.txt
 git commit -m "Add unix_notes.txt"
 git commit -m "Add function to file"
-less git_notes.txt 
+less git_notes.txt
 touch git_notes.txt
-less unix_notes.txt 
+less unix_notes.txt
 nano
 echo unix_notes.txt
 cd notes
@@ -128,7 +131,7 @@ less hw3.txt
 cd examples
 >>>import random
 python3
-git pull upstream master 
+git pull upstream master
 git remote set-url upstream  https://github.com/codefellows/sea-c42-python.git
 check cypher.py
 norm$ git pull upstream master
@@ -205,8 +208,8 @@ cd
 .
 ..
 pwd
-ls 
-subl moving_around.txt 
+ls
+subl moving_around.txt
 history > moving_around.txt
 history | less
 clear
@@ -214,7 +217,7 @@ clear
 ./.ssh/id_rsa.pub | pbcopy
 ls -la ~/.ssh/
 ssh-keygen -t rsa
-cd 
+cd
 cd ..
 cd .
 ls -lr
@@ -254,10 +257,10 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
 history
 git log
 cd sea-w29/
-git push origin break_me.py 
+git push origin break_me.py
 git commit -m "Added a new file"
-nano break_me.py 
-git add break_me.py 
+nano break_me.py
+git add break_me.py
 touch break_me.py
 cd hw
 git branch
@@ -283,14 +286,14 @@ git add hw3.txt
 git push origin notes
 git remote set-url origin https://github.com/rubens23/sea-w29
 git remote -v
-git add git_notes.txt 
-git add unix_notes.txt 
-git push origin git_notes.txt 
+git add git_notes.txt
+git add unix_notes.txt
+git push origin git_notes.txt
 git commit -m "Added new files"
 nano git_notes.txt
-nano unix_notes.txt 
+nano unix_notes.txt
 git checkout notes
-nano git_notes.txt 
+nano git_notes.txt
 git commit -m "Added UNIX notes"
 git add ./
 git add
@@ -301,19 +304,19 @@ mkdir rubens23
 git checkout -b notes
 sea-w29/
 git push origin rubens23
-git push 
-git commit git_notes.txt 
-git commit unix_notes.txt 
+git push
+git commit git_notes.txt
+git commit unix_notes.txt
 GIT STATUS
 LS
 cd rubens23/
 git add git.notes.txt
-git push origin unix_notes.txt 
+git push origin unix_notes.txt
 git commit -m "Add unix_notes.txt"
 git commit -m "Add function to file"
-less git_notes.txt 
+less git_notes.txt
 touch git_notes.txt
-less unix_notes.txt 
+less unix_notes.txt
 nano
 echo unix_notes.txt
 cd notes
@@ -331,7 +334,7 @@ less hw3.txt
 cd examples
 >>>import random
 python3
-git pull upstream master 
+git pull upstream master
 git remote set-url upstream  https://github.com/codefellows/sea-c42-python.git
 check cypher.py
 norm$ git pull upstream master
